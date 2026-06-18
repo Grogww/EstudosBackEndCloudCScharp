@@ -1,0 +1,1 @@
+Esse repositório será destinado a estudos de C# com foco no Backend e Cloud.
