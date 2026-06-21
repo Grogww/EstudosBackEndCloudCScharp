@@ -1,4 +1,4 @@
-Arquivo com índice e referência ao módulo de estudos
+Arquivo com índice e referência ao módulo de estudos de POO
 
 ### Notas
 
